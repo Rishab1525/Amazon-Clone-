@@ -6,7 +6,7 @@
 - Content Hosting: cloudinary
 - Deploy: Github, MongoDB Atlas
 
-![next amazona](/public/app.jpg)
+![next amazona](/public/app.png)
 
 ## Run Locally
 
